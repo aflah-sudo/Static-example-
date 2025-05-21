@@ -1,4 +1,6 @@
 * {
+    font-family: 'regular-font';
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -87,22 +89,6 @@ button:hover {
     font-weight: bold;
 }
 
-@font-face {
-    font-family: 'bold-font';
-    src: url(font/Speedee-Bold.ttf);
-}
-
-@font-face {
-    font-family: 'regular-font';
-    src: url(font/Speedee-Regular.ttf);
-}
-
-* {
-    font-family: 'regular-font';
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
 main {
     padding: 50px 0;
